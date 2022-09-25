@@ -21,22 +21,5 @@ Por último, arriba a la derecha te sale el puntaje que tenés.
 ## Habilidades adquiridas: 
 Aprendí a crear mi primer algoritmo, que en este caso es el que decide las reglas del juego. Me ayudo a desarrollar más mi pensamiento lógico.
 
-## Imágenes:
-- Desktop: 
-
-![Juego piedra, papel o tijera Desktop](./assets/screenshots/Juego-piedra-papel-tijera-Desktop.png)
-
-- Desktop Dark Mode: 
-
-![Juego piedra, papel o tijera Desktop Dark Mode](./assets/screenshots/Juego-piedra-papel-tijera-Desktop__Dark-Mode.png)
-
-- Mobile: 
-
-![Juego piedra, papel o tijera MObile](./assets/screenshots/Juego-piedra-papel-tijera-Mobile.png)
-
-- Mobile Dark Mode: 
-
-![Juego piedra, papel o tijera Mobile Dark Mode](./assets/screenshots/Juego-piedra-papel-tijera-Mobile__Dark-Mode.png)
-
 
 ### Creado por @Ronaldcode
