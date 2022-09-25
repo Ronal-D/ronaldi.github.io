@@ -39,4 +39,4 @@ Aprendí a crear mi primer algoritmo, que en este caso es el que decide las regl
 ![Juego piedra, papel o tijera Mobile Dark Mode](./assets/screenshots/Juego-piedra-papel-tijera-Mobile__Dark-Mode.png)
 
 
-### Creado por @francocarballar
+### Creado por @Ronaldcode
