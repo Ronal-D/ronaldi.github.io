@@ -19,7 +19,7 @@ Arriba a la izquierda hay un botón que cambia el "tema" del juego, es decir te 
 
 Por último, arriba a la derecha te sale el puntaje que tenés.
 ## Habilidades adquiridas: 
-Aprendí a crear mi primer algoritmo, que en este caso es el que decide las reglas del juego. Me ayudo a desarrollar más mi pensamiento lógico.
+Aprendí a crear un algoritmo, que en este caso es el que decide las reglas del juego. Me ayudo a desarrollar más mi pensamiento lógico.
 
 
 ### Creado por @Ronaldcode
